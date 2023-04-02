@@ -1,0 +1,18 @@
+2023-04-02 21:11:55.142695 - Initialized conversion of CBT044
+2023-04-02 21:11:55.264001 - Received CBT.V504.FILE044.PDS from FILE044.XMI 
+2023-04-02 21:11:55.266533 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:11:55.267627 - Found $$INDEX.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$$INDEX
+2023-04-02 21:11:55.268609 - Found $$NOTES.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$$NOTES
+2023-04-02 21:11:55.269629 - Found $ASMHJCL.jcl (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$ASMHJCL
+2023-04-02 21:11:55.270617 - Found $ASMTJCL.jcl (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$ASMTJCL
+2023-04-02 21:11:55.271582 - Found $DOC.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/$DOC
+2023-04-02 21:11:55.272559 - Found @FILE044.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/@FILE044
+2023-04-02 21:11:55.272571 - Found ASMTOMAC.bin containing application/octet-stream, moved to PDS/ASMTOMAC
+2023-04-02 21:11:55.274831 - Found ASMTOZA$.jcl (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/ASMTOZA$
+2023-04-02 21:11:55.275780 - Found ASMTOZAF.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/ASMTOZAF
+2023-04-02 21:11:55.276686 - Found ASMTOZAG.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/ASMTOZAG
+2023-04-02 21:11:55.277574 - Found ASMTOZAP.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/ASMTOZAP
+2023-04-02 21:11:55.278464 - Found HG00102.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/HG00102
+2023-04-02 21:11:55.279531 - Found PL1LFCL.jcl (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/PL1LFCL
+2023-04-02 21:11:55.280480 - Found SUBLPALK.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/SUBLPALK
+2023-04-02 21:11:55.281518 - Found TIMERZAP.txt (text/plain) in CBT.V504.FILE044.PDS, moved to PDS/TIMERZAP
